@@ -18,6 +18,6 @@ class UserList(generics.ListCreateAPIView):
     queryset = get_user_model
     serializer_class = UserSerializer
 
-class DetailList(generics.RetrieveUpdateDestroyAPIView):
+class UserDetail(generics.RetrieveUpdateDestroyAPIView):
     queryset = get_user_model
     serializer_class = UserSerializer
