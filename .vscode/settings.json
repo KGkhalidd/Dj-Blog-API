@@ -1,3 +1,8 @@
 {
-  "cSpell.words": ["authtoken", "corsheaders"]
+  "cSpell.words": [
+    "allauth",
+    "authtoken",
+    "corsheaders",
+    "socialaccount"
+  ]
 }
