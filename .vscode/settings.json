@@ -3,6 +3,7 @@
     "allauth",
     "authtoken",
     "corsheaders",
-    "socialaccount"
+    "socialaccount",
+    "viewsets"
   ]
 }
