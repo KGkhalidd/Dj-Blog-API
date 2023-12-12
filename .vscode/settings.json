@@ -3,6 +3,7 @@
     "allauth",
     "authtoken",
     "corsheaders",
+    "Redoc",
     "socialaccount",
     "viewsets"
   ]
